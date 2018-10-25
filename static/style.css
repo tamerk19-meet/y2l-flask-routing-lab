@@ -1,1 +1,10 @@
 /* Put your CSS Styling here! */
+
+a {
+	background-color: grey;
+}
+
+h1{
+	color:white;
+	background-color:black;
+}
